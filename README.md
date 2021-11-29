@@ -117,7 +117,7 @@ Berikut hasil programnya:
 
 - Berikut gambar programnya:
 
-![Gambar 6](screenshot/List_Nilai_Mahasiswa1.png)
+![Gambar 6](screenshot/List_Nilai_Mahasiswa1.PNG)
 
 - Keterangan:
 ```python
@@ -180,6 +180,6 @@ for n in range(i):
 ```
 - sedangkan yang diatas adalah untuk menampilkan hasil dari list yang telah di inputkan, dengan menggunakan perulangan for n in range. dan berikut hasil dari code programnya:
 
-![Gambar 7](screenshot/List_Nilai_Mahasiswa.png)
+![Gambar 7](screenshot/List_Nilai_Mahasiswa.PNG)
 
 ## Sekian Praktikum Labs 4 ini
