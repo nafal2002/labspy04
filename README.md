@@ -12,7 +12,7 @@ list=[]
 
 berikut penulisan dalam python:
 
-![Gambar 1](screenshot/list1.PNG)
+![Gambar 1](screenshot/list1.png)
 
 dengan keterangan:
 ```python
@@ -57,14 +57,14 @@ print("merubah elemen ke 4 sampai elemen terakhir:", list)
 ```
 berikut hasil pemogramannya:
 
-![Gambar 2](screenshot/hasil_list1.PNG)
+![Gambar 2](screenshot/hasil_list1.png)
 
 
 ### Latihan untuk menambahkan elemen dalam list:
 
 berikut gambar program nya:
 
-![Gambar 3](screenshot/list2.PNG)
+![Gambar 3](screenshot/list2.png)
 
 ### tambah elemen list
 ```python
@@ -104,7 +104,7 @@ print("Gabungan list B dan A:", c)
 
 Berikut hasil programnya:
 
-![Gambar 4](screenshot/hasil_list2.PNG)
+![Gambar 4](screenshot/hasil_list2.png)
 
 
 #Praktikum Labs 4
@@ -117,7 +117,7 @@ Berikut hasil programnya:
 
 - Berikut gambar programnya:
 
-![Gambar 6](screenshot/List_Nilai_Mahasiswa1.PNG)
+![Gambar 6](screenshot/List_Nilai_Mahasiswa1.png)
 
 - Keterangan:
 ```python
@@ -180,6 +180,6 @@ for n in range(i):
 ```
 - sedangkan yang diatas adalah untuk menampilkan hasil dari list yang telah di inputkan, dengan menggunakan perulangan for n in range. dan berikut hasil dari code programnya:
 
-![Gambar 7](screenshot/List_Nilai_Mahasiswa.PNG)
+![Gambar 7](screenshot/List_Nilai_Mahasiswa.png)
 
 ## Sekian Praktikum Labs 4 ini
